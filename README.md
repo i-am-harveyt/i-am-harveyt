@@ -10,5 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/i-am-harveyt?theme=dark&font=source_code_pro&extension=null)
-
-<img src="https://myreadme.vercel.app/api/embed/i-am-harveyt?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

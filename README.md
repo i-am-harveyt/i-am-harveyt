@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @i-am-harveyt
-- 👀 I’m interested in C++ and Golang Programming, Neovim and some FOSS.
-- 🌱 I’m currently learning Golang and Front-end dev
+- 👀 I’m interested in Python and Go Programming, Neovim and some FOSS.
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email: haotingtong30@gmail.com
 
 <!---
 i-am-harveyt/i-am-harveyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
